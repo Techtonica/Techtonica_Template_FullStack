@@ -5,7 +5,7 @@
 ### To create the whole project
 
 
-1. Go to your source directory in your terminal and run the command `git clone https://github.com/Yosolita1978/Template2023React-Vite.git NAMENEWDIRECTORY`
+1. Go to your source directory in your terminal and run the command `git clone https://github.com/Techtonica/Techtonica_Template_FullStack.git NAMENEWDIRECTORY`
 
 2. To clean the owner git out of the main directory, run the command `rm -rf .git`
 
